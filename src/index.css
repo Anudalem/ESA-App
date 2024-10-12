@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg {
+  /* background: url(assets/hero-img.jpg); */
+  width: 100%;
+  height: 90vh;
+}
+.ulcontact {
+  text-decoration: none;
+}
